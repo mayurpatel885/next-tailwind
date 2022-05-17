@@ -1,0 +1,12 @@
+$primary-color: #64FF00;
+
+.testdemo {
+  background-color: $primary-color;
+}
+
+.custom-border-color {
+  border-color: #707070;
+}
+:export {
+  primaryColor: $primary-color
+}
