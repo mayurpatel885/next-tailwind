@@ -6,7 +6,7 @@ import styles1 from '../styles/variables.module.scss'
 import styles from '../styles/Home.module.scss'  
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Artboard from '../public/images/Artboard23.jpg'
+import Artboard from '../public/images/Artboard23.jpg' 
 import Artboard1 from '../public/images/rplus_SkunAbout.jpg'
 import Artboard2 from '../public/images/rplus_Skunbanner.jpg'
 import Artboard3 from '../public/images/rplus_SkunHotel.jpg'
